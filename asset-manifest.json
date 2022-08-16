@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Epic-Memory-Game/static/css/main.c58298ab.css",
+    "main.js": "/Epic-Memory-Game/static/js/main.5bf56224.js",
+    "static/media/img1.jpg": "/Epic-Memory-Game/static/media/img1.bea0404f75a09aec8378.jpg",
+    "static/media/img3.jpg": "/Epic-Memory-Game/static/media/img3.3e78a1dcf1f20cc35820.jpg",
+    "static/media/img8.jpg": "/Epic-Memory-Game/static/media/img8.500727d6cc9560181f45.jpg",
+    "static/media/img6.jpg": "/Epic-Memory-Game/static/media/img6.2198ac41685acdb2871b.jpg",
+    "static/media/img2.jpg": "/Epic-Memory-Game/static/media/img2.ff73336375f4fe8c3788.jpg",
+    "static/media/img4.jpg": "/Epic-Memory-Game/static/media/img4.f62c8ecbbc8b94870e06.jpg",
+    "static/media/img5.jpg": "/Epic-Memory-Game/static/media/img5.21f4df57c84a4f6a86f2.jpg",
+    "index.html": "/Epic-Memory-Game/index.html",
+    "main.c58298ab.css.map": "/Epic-Memory-Game/static/css/main.c58298ab.css.map",
+    "main.5bf56224.js.map": "/Epic-Memory-Game/static/js/main.5bf56224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c58298ab.css",
+    "static/js/main.5bf56224.js"
+  ]
+}
